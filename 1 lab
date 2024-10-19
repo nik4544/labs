@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Лабораторная работа 1</title>
+</head>
+
+<body>
+    <h1>
+        Это моя первая HTML страница
+    </h1>
+    <h1>
+        <p>Меня зовут Никита мне 19 лет.</p>
+    </h1>
+    <h2>
+        <b><i><del>г.Сызрань, Школа №10, Спорт</b></i></del>
+    </h2>
+    <h2>
+        <u>Мне нравится кино в жанре боевик:</u>
+        <li>Джон Уик</li>
+        <li>Никто</li>
+        <li>Охота</li>
+    </h2>
+    <h2>
+        <ol>Какая музыка мне нравится:</ol>
+        <li>Поп</li>
+        <li>Реп</li>
+        <li>Хип Хоп</li>
+    </h2>
+    <h2>
+        Как связатся со мной:
+        <a href="https://vk.com/ql_ql">ВК></a>
+    </h2>
+    <img
+    
+    src="C:\Users\Никита\Desktop\пап\pic.jpg">
+</body>
+</html>
